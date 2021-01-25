@@ -1,2 +1,2 @@
-# Project-20
-simple work
+# p5.play-boilerplate
+Boiler plate for p5.play
